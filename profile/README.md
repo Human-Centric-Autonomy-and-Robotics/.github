@@ -12,9 +12,10 @@
 ![](https://komarev.com/ghpvc/?username=X-lab2017&color=blue)
 -->
 
-### **🚩 About XXX-lab**
+### **🚩 About HART-lab**
 
-> **XXX-lab** is ...⛵ (A brief description)
+> <!--**XXX-lab** is ...⛵ (A brief description)-->
+> The increasing integration of AI/ML into almost every aspect of our daily lives spurs new questions around how humans and autonomous systems can interact, collaborate, adapt, support and potentially learn from each other. The focus of the Human-centric Autonomy and Robotics (HART) Lab is to develop novel mathematical tools, learning algorithms, and solutions to advance our fundamental understanding of the close interaction between human and AI/ML, cultivating a human-AI synergy in the context of autonomous systems and robotics. The research projects in HART Lab have been sponsored by various government agencies and industry partners, including NSF, ONR, ARO, DARPA, USMA, CISCO, Meta, and AT&T — Thank you! 
 <!--（这是样例）定位为一个开源研究与创新的开放群体，是一群由来自国内外著名高校、创业公司、部分互联网与IT企业的专家学者与工程师所构成，聚焦于开源软件产业开放式创新的共同体。专业背景包括计算机科学、软件工程、数据科学、工商管理学、社会学、经济学等跨学科领域，长期思考并实践开源战略、开源测量学、开源数字生态系统等主题。目前已在包括开源治理标准制定、开源社区行为度量与分析、开源社区流程自动化、开源全域数据治理与洞察等方面做出了较有影响力的工作。-->
 
 > 👋 Welcome to XXXX-lab, Here we present many outstanding research projects from our laboratory.[[**Let's look.**]()]
